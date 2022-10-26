@@ -35,7 +35,7 @@ nav{
 	cursor: pointer;
 }
 span{
-	color: #66B8D9;
+	color: #34BF98;
 }
 
 
@@ -70,23 +70,21 @@ nav ul li a:hover{
 	transform: scale(1.2);
 }
 .content{
-	width: 40%;
+	width: 60%;
 	position: absolute;
 	top: 50%;
-	left:8%;
+	left:15%;
 	transform: translateY(-50%);
 	/* display: flex;
 	align-items: center;
 	justify-content: space-around; */
 }
 .imagem-logo{
-	/* margin-top: 8%; */
+	margin-top: 15%;
 	margin-left: 50%;
 	display: flex;
 	align-items:flex-end;
-	justify-content: space-around;
-
-	
+	justify-content: space-around;	
 }
 h1{
 	color: white;
@@ -117,7 +115,7 @@ h4{
 	display: inline-block;
 	width: 100%;
 	padding: 14px 130px 14px 15px;
-	border: 2px solid #66B8D9;
+	border: 2px solid #34BF98;
 	outline: none;
 	border-radius: 30px;
 }
@@ -128,7 +126,7 @@ h4{
 	border: none;
 	padding: 10px 30px;
 	border-radius: 30px;
-	background-color:#66B8D9;
+	background-color: #34BF98;
 	color: white;
 	box-shadow: 0px 0px 5px #000, 0px 0px 15px #858585;
 	top: 6px;
@@ -167,7 +165,7 @@ h4{
 	/* margin-bottom: 45px; */
 }
 button{
-	background-color:#66B8D9;
+	background-color:#34BF98;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -178,7 +176,7 @@ button{
 }
 button:hover{
 	background-color: transparent;
-	border: 2px solid #66B8D9;
+	border: 2px solid #34BF98;
 	cursor: pointer;
 }
 
@@ -206,7 +204,7 @@ button:hover{
 	height: 335px;
 	width: 300px;
 	padding: 15px 25px;
-	color: #66B8D9;
+	color: #34BF98;
 	background: #191919;
 	/* border-radius: 20px; */
 	margin: 1px;
@@ -219,7 +217,7 @@ button:hover{
 	display: block;
 	text-align: center;
 	margin: 25px 0px;
-	color: #66B8D9;
+	color: #34BF98;
 
 }
 /* h5{
@@ -234,7 +232,7 @@ button:hover{
 	margin-bottom: 25px;
 } */
 .card .button{
-	background-color:#66B8D9;
+	background-color:#34BF98;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -245,7 +243,7 @@ button:hover{
 }
 .card .button:hover{
 	background-color: transparent;
-	border: 2px solid #66B8D9;
+	border: 2px solid #34BF98;
 	cursor: pointer;
 }
 .contact-me{
@@ -264,7 +262,7 @@ button:hover{
 	margin-bottom: 25px;
 }
 .contact-me .button-two{
-	background-color:#66B8D9;
+	background-color:#34BF98;
 	color: white;
 	text-decoration: none;
 	border: 2px solid transparent;
@@ -275,7 +273,7 @@ button:hover{
 }
 .contact-me .button-two:hover{
 	background-color: transparent;
-	border: 2px solid #66B8D9;
+	border: 2px solid #34BF98;
 	cursor: pointer;
 }
 footer{
@@ -310,7 +308,7 @@ footer p:nth-child(2){
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background:  #66B8D9;
+	background:  #34BF98;
 	border-radius: 50%;
 	margin: 22px 10px;
 	color: white;
@@ -323,7 +321,7 @@ footer p:nth-child(2){
 }
 .end{
 	position: absolute;
-	color:#66B8D9;
+	color:#34BF98;
 	bottom: 35px;
 	font-size: 14px; 
 }
